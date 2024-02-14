@@ -1,2 +1,1 @@
-# QueensU-Engineering
-Professional dumbass
+# Hello
